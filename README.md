@@ -2,4 +2,4 @@
 
 Recreation of famous Nokia phone game.
 
-Live demo at nileahtobhair.github.io/Snake
+Live demo at <a href="nileahtobhair.github.io/Snake"></a>
